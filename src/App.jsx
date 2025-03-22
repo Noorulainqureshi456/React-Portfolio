@@ -4,7 +4,7 @@ import HomePage from './Components/Home/HomePage'
 import About from './Components/AboutMe/About'
 import Contact from './Components/ContactMe/Contacts'
 import Index from './Components/Layout/Index'
-import { Routes , Route } from 'react-router-dom'
+import {  HashRouter as Routes , Route } from 'react-router-dom'
 function App() {
  
 
